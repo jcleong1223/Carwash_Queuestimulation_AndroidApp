@@ -1,9 +1,9 @@
 # Carwash_queueStimulation_AndroidApp
 
 
-Main Page of the App
-![image](https://user-images.githubusercontent.com/112812782/190960640-69b4b1df-2def-4c4b-868c-102d94138341.png)
 
+![image](https://user-images.githubusercontent.com/112812782/190960640-69b4b1df-2def-4c4b-868c-102d94138341.png)
+Main Page of the App
 
 
 Allow customer to key in their details for the car wash apointment
